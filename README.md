@@ -1,5 +1,5 @@
 # envoy
-i hate opening discord in public so i made a web client that makes it look like imessage instead 
+i hate opening discord in public so i made a web client that makes it look like imessage instead so i can appear like a normal human being
 
 tbd idk when tbh 
 
